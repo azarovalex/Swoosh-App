@@ -16,10 +16,10 @@
         </array>
     </customFonts>
     <scenes>
-        <!--View Controller-->
+        <!--WelcomeVC-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Swoosh" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="WelcomeVC" customModule="Swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -95,10 +95,10 @@
             </objects>
             <point key="canvasLocation" x="136.80000000000001" y="133.5832083958021"/>
         </scene>
-        <!--View Controller-->
+        <!--LeagueVC-->
         <scene sceneID="hqe-KY-bL7">
             <objects>
-                <viewController id="dyw-UD-yrO" sceneMemberID="viewController">
+                <viewController id="dyw-UD-yrO" customClass="LeagueVC" customModule="Swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="dKx-ID-F2w">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -206,10 +206,10 @@
             </objects>
             <point key="canvasLocation" x="935" y="134"/>
         </scene>
-        <!--View Controller-->
+        <!--SkillVC-->
         <scene sceneID="tco-j5-nIY">
             <objects>
-                <viewController id="itP-M0-K7W" sceneMemberID="viewController">
+                <viewController id="itP-M0-K7W" customClass="SkillVC" customModule="Swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="IkO-vV-ind">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
